@@ -1,0 +1,96 @@
+{
+    "nav": {
+      "joinLearn": "Únete para aprender",
+      "joinInvest": "Únete para invertir",
+      "meetTeam": "Conoce al equipo",
+      "youtube": "Videos en YouTube",
+      "contact": "Contáctanos"
+    },
+    "hero": {
+    "heading": "De la Tierra al Negocio: Donde el Terreno Bruto se Convierte en Oportunidad Real",
+    "subheading": "Landbusters es tu acceso directo al proceso de desarrollo inmobiliario: desde la selección del sitio hasta el modelado financiero y la ejecución vertical.",
+    "formTitle": "Crea una Cuenta Gratis",
+    "fullName": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "submit": "Únete Ahora"
+    },
+    "learn": {
+    "title": "Únete para aprender",
+    "subheading": "No solo hablamos de bienes raíces—formamos negociadores.",
+    "p1": "Aprende a encontrar, analizar y estructurar oportunidades de desarrollo con la misma precisión y estrategia que usamos en nuestros propios proyectos.",
+    "p2": "Ya seas corredor, urbanista o inversionista principiante, te daremos las herramientas para descubrir oportunidades que otros pasan por alto—y el apoyo para llevarlas más lejos.",
+    "p3": "Como tu oficina de desarrollo, ofrecemos:",
+    "list1": "Estudios de factibilidad de sitios a través de Zero to Plan",
+    "list2": "Análisis de volumetría arquitectónica y zonificación",
+    "list3": "Modelado financiero pro forma",
+    "list4": "Representación del propietario vía Atex Group",
+    "list5": "Retroalimentación estratégica y posible asociación con Marston Development Group",
+    "ctaText": "Detecta. Estudia. Estructura.",
+    "ctaBtn": "Regístrate para aprender"
+    },
+    "invest": {
+    "title": "Únete para invertir",
+    "subheading": "Nuestros inversionistas no siguen tendencias—financian crecimiento estratégico.",
+    "p1": "En Marston, nos enfocamos en oportunidades inmobiliarias basadas en datos, potenciadas por incentivos y diseñadas para escalar.",
+    "p2": "Desde exenciones fiscales y subvenciones hasta asociaciones público-privadas, aprovechamos cada herramienta disponible para maximizar el IRR y reducir el riesgo.",
+    "p3": "Estas no son inversiones especulativas llamativas—son oportunidades construidas con propósito para mercados en crecimiento con demanda visible y desatendida.",
+    "sublist": "Oportunidades para inversionistas:",
+    "list1": "Jugadas de legalización de terrenos Adquiere tierras crudas, desbloquea valor mediante zonificación y permisos",
+    "list2": "Desarrollo completo Invierte desde la compra hasta la construcción y estabilización",
+    "ctaText": "Únete al Círculo de Inversionistas",
+    "ctaBtn": "Únete a la Red de Inversores"
+    },
+    "media": {
+  "title": "Conoce al Equipo",
+  "row1": {
+    "title": "Bienvenido a Landbusters",
+    "text": "Episodio Cero."
+  },
+  "row2": {
+    "title": "Así es como Trabajamos",
+    "text": "Mira cómo recorremos el sitio y recopilamos datos sobre desniveles, accesos y desafíos potenciales antes de adquirir el terreno."
+  },
+  "row3": {
+    "title": "Reynaldo Vivas – El Negociador",
+    "text": "Rey combina diseño y finanzas para convertir terrenos en realidad. Con experiencia en desarrollo inmobiliario, estructuración de acuerdos y viabilidad de proyectos, lidera negociaciones, alinea intereses y diseña acuerdos que funcionan tanto en papel como en el mundo real."
+  },
+  "row4": {
+    "title": "Ray Vivas – El Analista",
+    "text": "Con experiencia en adquisiciones y modelado financiero, Ray se asegura de que los números funcionen antes de que empiece la construcción. Aporta análisis financiero institucional a cada proyecto y ayuda a definir estrategias alineadas con los objetivos del inversionista."
+  },
+  "row5": {
+    "title": "Anthony – El Arquitecto",
+    "text": "Anthony convierte las limitaciones del sitio en diseños atractivos. Da forma a la volumetría y la estrategia del programa que impulsan la viabilidad, y asegura que la arquitectura sirva tanto a la comunidad como a los objetivos de inversión."
+  }
+},
+"sponsors": {
+  "title": "Conoce a Nuestros Patrocinadores: El Motor Detrás de Cada Proyecto",
+  "link": "Ir al sitio web",
+  "marston": {
+    "name": "Grupo Marston",
+    "desc": "Firma de inversión inmobiliaria que ofrece oportunidades seleccionadas en legalización de terrenos y desarrollo completo. Solo para inversionistas acreditados."
+  },
+  "zero": {
+    "name": "Zero to Plan",
+    "desc": "Servicios de análisis de viabilidad que combinan volumetría arquitectónica y modelado financiero. El primer paso para cualquier proyecto inteligente."
+  },
+  "atex": {
+    "name": "Grupo Atex",
+    "desc": "Representación del propietario y gestión de desarrollo: impulsando proyectos a través del diseño, permisos y ejecución."
+  }
+},
+"footer": {
+  "learn": "Únete para aprender",
+  "invest": "Únete para invertir",
+  "youtube": "YouTube",
+  "contact": "Contáctanos"
+}
+
+
+
+
+
+  }
+  
+  

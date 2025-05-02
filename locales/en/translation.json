@@ -1,0 +1,98 @@
+{
+    "nav": {
+      "joinLearn": "Join to Learn",
+      "joinInvest": "Join to Invest",
+      "meetTeam": "Meet the Team",
+      "youtube": "YouTube Videos",
+      "contact": "Contact Us"
+    },
+    "hero": {
+    "heading": "From Dirt to Deals: Where Raw Land Becomes Real Opportunity",
+    "subheading": "Landbusters is your front-row seat to the real estate development process—from site selection to financial modeling to vertical execution.",
+    "formTitle": "Create a Free Account",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "password": "Password",
+    "submit": "Join Now"
+    },
+    "learn": {
+    "title": "Join to Learn",
+    "subheading": "We don’t just talk real estate—we build dealmakers.",
+    "p1": "Learn how to source, analyze, and structure development opportunities with the same precision and strategy we use in our own projects.",
+    "p2": "Whether you're a broker, city planner, or early-stage investor, we’ll equip you with the tools to uncover opportunities others miss—and the support to take them further.",
+    "p3": "As your development back office, we provide:",
+    "list1": "Site feasibility studies through Zero to Plan",
+    "list2": "Architectural massing and zoning analysis",
+    "list3": "Pro forma financial modeling",
+    "list4": "Owner representation via Atex Group",
+    "list5": "Strategic feedback and potential partnership with Marston Development Group",
+    "ctaText": "Scout. Study. Structure.",
+    "ctaBtn": "Sign Up to Learn"
+    },
+    "invest": {
+    "title": "Join to Invest",
+    "subheading": "Our investors don’t chase trends—they fund strategic growth.",
+    "p1": "At Marston, we focus on real estate opportunities that are data-driven, incentive-enhanced, and built to scale.",
+    "p2": "From tax abatements and grants to public-private partnerships, we leverage every tool available to maximize IRR and reduce downside risk.",
+    "p3": "These aren’t flashy, speculative plays—they’re purpose-built investments targeting visible, underserved demand in key growth markets.",
+    "sublist": "Investor Opportunities:",
+    "list1": "Land Entitlement Plays – Acquire raw land, unlock value through zoning and approvals",
+    "list2": "Full-Cycle Development – Invest from land through construction and stabilization",
+    "ctaText": "Join the Investor Circle",
+    "ctaBtn": "Join the Investor Network"
+    },
+    "media": {
+  "title": "Meet the Crew",
+  "row1": {
+    "title": "Welcome to Landbusters",
+    "text": "Episode Zero."
+  },
+  "row2": {
+    "title": "This is how We Work",
+    "text": "Watch how we walk the site and capture data on grading, access, and potential challenges before acquisition."
+  },
+  "row3": {
+    "title": "Reynaldo Vivas – The Dealmaker",
+    "text": "Rey brings design and finance together to turn land into reality. With a background in real estate development, deal structuring, and project feasibility, he leads negotiations, aligns interests, and crafts win-win deals that work on paper—and in the real world."
+  },
+  "row4": {
+    "title": "Ray Vivas – The Analyst",
+    "text": "With a background in acquisitions and modeling, Ray makes sure the numbers work before the shovel hits the ground. He brings institutional-grade underwriting to every project and helps shape deal strategies that align with investor goals."
+  },
+  "row5": {
+    "title": "Anthony – The Architect",
+    "text": "Anthony turns site constraints into compelling design. He shapes the massing and program strategy that drive feasibility, and ensures architecture serves both community and investor outcomes."
+  }
+},
+"sponsors": {
+  "title": "Meet Our Sponsors: The Engine Behind Every Deal",
+  "link": "Link to website",
+  "marston": {
+    "name": "Marston Group",
+    "desc": "Real estate investment firm offering curated opportunities in land entitlement and full development. Only for accredited investors."
+  },
+  "zero": {
+    "name": "Zero to Plan",
+    "desc": "Feasibility analysis services combining architectural massing and financial modeling. The first step to any smart project."
+  },
+  "atex": {
+    "name": "Atex Group",
+    "desc": "Owner representation and development management—pushing projects through design, permitting, and execution."
+  }
+},
+"footer": {
+  "learn": "Join to Learn",
+  "invest": "Join to Invest",
+  "youtube": "YouTube",
+  "contact": "Contact Us"
+}
+
+
+
+
+
+
+
+
+  }
+  
