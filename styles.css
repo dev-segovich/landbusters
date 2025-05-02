@@ -1,0 +1,106 @@
+:root {
+    --color-bg: #ffffff;
+    --color-bg-alt: #f0f2f5;
+    --color-primary: #0057c1;
+    --color-accent: #0070f3;
+    --color-text: #333333;
+    --color-footer: #1a1a1a;
+    --color-white: #ffffff;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: var(--color-bg);
+    color: var(--color-text);
+  }
+  
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  .site-header {
+    background: var(--color-white);
+    padding: 1rem 0;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: var(--color-primary);
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: var(--color-text);
+  }
+  
+  .hero {
+    background: var(--color-bg-alt);
+    text-align: center;
+    padding: 4rem 1rem;
+  }
+  
+  .hero h2 {
+    font-size: 2rem;
+  }
+  
+  .cta-button {
+    background: var(--color-accent);
+    color: var(--color-white);
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 1rem;
+  }
+  
+  .features {
+    background: var(--color-white);
+    padding: 3rem 1rem;
+    text-align: center;
+  }
+  
+  .feature-grid {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+    gap: 1rem;
+  }
+  
+  .feature-card {
+    background: var(--color-bg-alt);
+    padding: 2rem;
+    border-radius: 8px;
+    flex: 1;
+  }
+  
+  .community {
+    background: var(--color-bg);
+    padding: 3rem 1rem;
+    text-align: center;
+  }
+  
+  .cta-final {
+    background: var(--color-primary);
+    color: var(--color-white);
+    text-align: center;
+    padding: 3rem 1rem;
+  }
+  
+  .site-footer {
+    background: var(--color-footer);
+    color: var(--color-white);
+    text-align: center;
+    padding: 1rem;
+  }
+  
